@@ -1,0 +1,11 @@
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase\bin\Debug\netstandard2.0\Firebase.deps.json
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase\bin\Debug\netstandard2.0\Firebase.dll
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase\bin\Debug\netstandard2.0\Firebase.pdb
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase\obj\Debug\netstandard2.0\Firebase.csproj.CoreCompileInputs.cache
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase\obj\Debug\netstandard2.0\Firebase.AssemblyInfoInputs.cache
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase\obj\Debug\netstandard2.0\Firebase.AssemblyInfo.cs
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase\obj\Debug\netstandard2.0\Firebase.dll
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase\obj\Debug\netstandard2.0\Firebase.pdb

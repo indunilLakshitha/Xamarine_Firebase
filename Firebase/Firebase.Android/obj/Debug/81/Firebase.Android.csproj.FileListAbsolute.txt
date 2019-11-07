@@ -1,0 +1,6 @@
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.Android\obj\Debug\81\Firebase.Android.nuget.stamp
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.Android\obj\Debug\81\Firebase.Android.csprojAssemblyReference.cache
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.Android\obj\Debug\81\libraryimports.cache.stamp
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.Android\obj\Debug\81\res.flag
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.Android\obj\Debug\81\Firebase.Android.csproj.CoreCompileInputs.cache

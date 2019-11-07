@@ -1,0 +1,11 @@
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.UWP\obj\x86\Debug\Firebase.UWP.csprojAssemblyReference.cache
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.UWP\obj\x86\Debug\App.g.i.cs
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.UWP\obj\x86\Debug\App.g.cs
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.UWP\obj\x86\Debug\MainPage.g.i.cs
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.UWP\obj\x86\Debug\MainPage.g.cs
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.UWP\obj\x86\Debug\App.xaml
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.UWP\obj\x86\Debug\MainPage.xaml
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.UWP\obj\x86\Debug\App.xbf
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.UWP\obj\x86\Debug\MainPage.xbf
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.UWP\obj\x86\Debug\XamlSaveStateFile.xml

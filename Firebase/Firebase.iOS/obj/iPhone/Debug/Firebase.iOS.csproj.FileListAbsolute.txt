@@ -1,0 +1,8 @@
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.iOS\obj\iPhone\Debug\optimized\
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.iOS\obj\iPhone\Debug\Firebase.iOS.csprojAssemblyReference.cache
+E:\Running_projects\xamarine\Firebase\Firebase\Firebase.iOS\obj\iPhone\Debug\Firebase.iOS.csproj.CoreCompileInputs.cache
